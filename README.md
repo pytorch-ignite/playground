@@ -1,14 +1,22 @@
 # PyTorch-Ignite playground
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pytorch-ignite/playground/HEAD?filepath=index.ipynb)
+Click on the badge to launch the playground in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pytorch-ignite/playground/HEAD?filepath=index.ipynb) 
 
-A Binder-compatible repo with an `environment.yml` file.
+
+
+
+
+
+## About this repository
+
+A Binder-compatible repo with an `environment.yml` file copied from https://github.com/binder-examples/conda
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/pytorch-ignite/playground/HEAD?filepath=index.ipynb
 
-## Notes
+### Notes
+
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
 

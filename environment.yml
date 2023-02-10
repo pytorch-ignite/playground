@@ -6,3 +6,4 @@ dependencies:
   - pytorch
   - cpuonly
   - ignite
+  - numpy

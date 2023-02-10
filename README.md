@@ -1,6 +1,8 @@
-# PyTorch-Ignite playground
+# PyTorch-Ignite Playground
 
-Click on the badge to launch the playground in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pytorch-ignite/playground/HEAD?filepath=index.ipynb)
+- Click on the badge to launch the playground in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pytorch-ignite/playground/HEAD?labpath=index.ipynb)
+
+- Click on the badge to launch the playground in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytorch-ignite/playground/blob/main/index.ipynb)
 
 
 ## About this repository
@@ -9,7 +11,7 @@ A Binder-compatible repo with an `environment.yml` file copied from https://gith
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/pytorch-ignite/playground/HEAD?filepath=index.ipynb
+https://mybinder.org/v2/gh/pytorch-ignite/playground/HEAD?labpath=index.ipynb
 
 ### Notes
 

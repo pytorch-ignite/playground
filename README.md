@@ -1,10 +1,6 @@
 # PyTorch-Ignite playground
 
-Click on the badge to launch the playground in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pytorch-ignite/playground/HEAD?filepath=index.ipynb) 
-
-
-
-
+Click on the badge to launch the playground in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pytorch-ignite/playground/HEAD?filepath=index.ipynb)
 
 
 ## About this repository
